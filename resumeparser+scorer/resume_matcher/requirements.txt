@@ -1,0 +1,10 @@
+python-dotenv
+openai
+spacy
+scikit-learn
+sentence-transformers
+PyPDF2
+python-docx
+fastapi
+uvicorn
+pydantic

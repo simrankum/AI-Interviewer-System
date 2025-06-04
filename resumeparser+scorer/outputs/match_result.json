@@ -1,0 +1,457 @@
+{
+  "success": true,
+  "jobMatches": [
+    {
+      "jobId": "resume-1745236853-141895",
+      "jobFileName": "job_desc_full_stack_engineer.pdf",
+      "title": "Unknown Title",
+      "company": "Unknown Company",
+      "requiredSkills": [
+        "Java",
+        "JavaScript",
+        "Python",
+        "Ruby"
+      ],
+      "results": [
+        {
+          "id": "resume-1745236846-010536",
+          "fileName": "john_doe.pdf",
+          "status": "Poor Match",
+          "matchScore": 44.07,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Bootstrap",
+            "Docker",
+            "Git",
+            "Java",
+            "JavaScript",
+            "Junit",
+            "Scrum",
+            "Spring",
+            "TypeScript"
+          ],
+          "feedback": "Based on the assessment results, the candidate demonstrated a solid foundation in Java and JavaScript, which are key requirements for the job. However, there is a gap in proficiency in Python and Ruby, which are also essential for the role. To improve their overall match percentage, the candidate should consider enhancing their skills in Python and Ruby through additional training or practical experience. By expanding their knowledge in these areas, they can increase their competitiveness for the position. Additionally, the candidate's experience with Agile, Angular, Bootstrap, Docker, Git, Junit, Scrum, Spring, and TypeScript is valuable and showcases their versatility and adaptability in different working environments. It is recommended that the candidate continues to build on their existing skills and knowledge while also focusing on bridging the gap in Python and Ruby to enhance their overall qualifications for the job.",
+          "firstName": "Boot",
+          "lastName": null,
+          "email": "john.doe@email.com"
+        },
+        {
+          "id": "resume-1745236848-b9e78c",
+          "fileName": "bruce_wayne_fullstack.pdf",
+          "status": "Poor Match",
+          "matchScore": 44.62,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Kubernetes",
+            "Python",
+            "React",
+            "Scrum",
+            "TypeScript"
+          ],
+          "feedback": "While the candidate possesses valuable skills such as Agile, Docker, Git, Kubernetes, React, Scrum, and TypeScript which showcase strong knowledge of software development practices, they may need to further strengthen their proficiency in Java, Python, and Ruby to better align with the job requirements. It would be beneficial for the candidate to invest time in enhancing their coding abilities in these languages through additional training or practical projects. By expanding their technical skill set to include Java, Python, and Ruby, the candidate can significantly increase their competitiveness for roles that demand expertise in these programming languages.",
+          "firstName": "Bruce",
+          "lastName": "Wayne",
+          "email": "pebwayne@email.com"
+        },
+        {
+          "id": "resume-1745236850-dfa23e",
+          "fileName": "barry_allen_fe.pdf",
+          "status": "Poor Match",
+          "matchScore": 33.04,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Python",
+            "React",
+            "TypeScript"
+          ],
+          "feedback": "While the candidate possesses some relevant skills such as JavaScript, Python, and Agile, there is a significant gap in proficiency in the required languages of Java and Ruby for the job. To improve their match for future opportunities, the candidate should consider upskilling in Java and Ruby to align better with the job requirements. Additionally, showcasing practical experience or projects in Java and Ruby can enhance their credibility as a suitable candidate for roles that require proficiency in these languages. Continuing to build upon their existing skills and diversifying their technical expertise will greatly benefit the candidate in their career advancement.",
+          "firstName": "Barry",
+          "lastName": "Allen",
+          "email": "peallthe.stars@google.com"
+        },
+        {
+          "id": "resume-1745236852-91f33a",
+          "fileName": "harvey_dent_mle.pdf",
+          "status": "Poor Match",
+          "matchScore": 32.85,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "Keras",
+            "Kubernetes",
+            "Python",
+            "Scrum"
+          ],
+          "feedback": "Based on the assessment, the candidate demonstrates strong knowledge and experience in Agile, Docker, Git, Keras, Kubernetes, and Scrum, which are valuable skills in the industry. However, there is a gap in the required technical skills for the job, specifically in Java, JavaScript, and Ruby. To enhance competitiveness for similar roles in the future, the candidate may consider further developing proficiency in these languages through additional training or practical experience. This will broaden their skill set and increase their suitability for a wider range of opportunities in the field.",
+          "firstName": "Harvey",
+          "lastName": "Dent",
+          "email": "pehdent@email.com"
+        },
+        {
+          "id": "resume-1745236853-be07dd",
+          "fileName": "alfred_pennyworth_pm.pdf",
+          "status": "Poor Match",
+          "matchScore": 41.27,
+          "skills": [
+            "Agile",
+            "Java",
+            "JavaScript",
+            "Python"
+          ],
+          "feedback": "Based on the assessment results, the candidate has shown proficiency in Java, JavaScript, and Python, which align well with the job requirements. To further improve their match percentage, it is recommended that they enhance their skills in Ruby to broaden their technical capabilities and increase their competitiveness for the role. They could consider taking additional courses or engaging in projects that involve Ruby to strengthen their proficiency in this area. Overall, the candidate has a strong foundation in key languages required for the job, and focusing on enhancing their Ruby skills would significantly boost their suitability for the position.",
+          "firstName": "Alfred",
+          "lastName": "Pennyworth",
+          "email": "pealfred.pennyworth@email.com"
+        }
+      ]
+    },
+    {
+      "jobId": "resume-1745236864-20386e",
+      "jobFileName": "job_desc_front_end_engineer.pdf",
+      "title": "Unknown Title",
+      "company": "Unknown Company",
+      "requiredSkills": [
+        "Angular",
+        "Git",
+        "JavaScript",
+        "React"
+      ],
+      "results": [
+        {
+          "id": "resume-1745236856-2ec16a",
+          "fileName": "john_doe.pdf",
+          "status": "Poor Match",
+          "matchScore": 41.64,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Bootstrap",
+            "Docker",
+            "Git",
+            "Java",
+            "JavaScript",
+            "Junit",
+            "Scrum",
+            "Spring",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has a good foundation in Angular, Git, and JavaScript, which are essential skills for the job. To improve their match percentage, they could focus on gaining more experience or knowledge in React, which is also a required skill for the position. Additionally, they could consider further developing their skills in TypeScript to enhance their proficiency in front-end development. Overall, the candidate's background in Agile, Docker, Java, Junit, Scrum, and Spring demonstrates a strong foundation in software development methodologies, which is valuable for the role. With some additional training or projects focusing on React and TypeScript, the candidate could further enhance their qualifications for the position.",
+          "firstName": "Boot",
+          "lastName": null,
+          "email": "john.doe@email.com"
+        },
+        {
+          "id": "resume-1745236858-0a553b",
+          "fileName": "bruce_wayne_fullstack.pdf",
+          "status": "Poor Match",
+          "matchScore": 45.05,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Kubernetes",
+            "Python",
+            "React",
+            "Scrum",
+            "TypeScript"
+          ],
+          "feedback": "Feedback for the candidate:\nBased on the assessment, the candidate has demonstrated proficiency in several relevant skills such as Git, JavaScript, React, and Agile methodologies. However, there is a gap in the required skills for the job, particularly in Angular. To enhance their suitability for the role, the candidate may consider focusing on gaining more experience and knowledge in Angular to improve their overall match for the position. Additionally, leveraging their existing expertise in Git, JavaScript, React, and Agile can be beneficial in transitioning to roles that require these skills. Continued learning and development in Angular could significantly increase their chances of securing roles that align more closely with their current skill set.",
+          "firstName": "Bruce",
+          "lastName": "Wayne",
+          "email": "pebwayne@email.com"
+        },
+        {
+          "id": "resume-1745236860-56136d",
+          "fileName": "barry_allen_fe.pdf",
+          "status": "Poor Match",
+          "matchScore": 41.45,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Python",
+            "React",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has a strong foundation in key technical skills such as Angular, Git, JavaScript, and React, which are essential for the job role. However, there is room for improvement in certain areas to further enhance the match percentage. It would be beneficial for the candidate to focus on gaining more practical experience and proficiency in React to better align with the job requirements. Additionally, improving knowledge and skills in tools such as TypeScript could also help increase the overall match percentage. Overall, with some targeted development in these areas, the candidate has the potential to be a stronger fit for the role.",
+          "firstName": "Barry",
+          "lastName": "Allen",
+          "email": "peallthe.stars@google.com"
+        },
+        {
+          "id": "resume-1745236862-0a4513",
+          "fileName": "harvey_dent_mle.pdf",
+          "status": "Poor Match",
+          "matchScore": 32.0,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "Keras",
+            "Kubernetes",
+            "Python",
+            "Scrum"
+          ],
+          "feedback": "While the candidate possesses valuable skills such as Agile, Docker, Git, Keras, Kubernetes, Python, and Scrum, there is a noticeable gap in proficiency in the key requirements of the job - Angular, Git, JavaScript, and React. To increase the chances of success in future applications, the candidate may benefit from focusing on developing their expertise in these specific technologies. Engaging in targeted learning and practical projects that involve Angular, Git, JavaScript, and React can significantly enhance their qualifications and competitiveness in roles that require these skills. Additionally, highlighting any relevant experience or training in these areas on their resume and during interviews can further demonstrate their commitment to professional growth and adaptability.",
+          "firstName": "Harvey",
+          "lastName": "Dent",
+          "email": "pehdent@email.com"
+        },
+        {
+          "id": "resume-1745236864-1ee477",
+          "fileName": "alfred_pennyworth_pm.pdf",
+          "status": "Poor Match",
+          "matchScore": 39.3,
+          "skills": [
+            "Agile",
+            "Java",
+            "JavaScript",
+            "Python"
+          ],
+          "feedback": "Based on the assessment results, the candidate demonstrates strengths in Agile methodology and experience with Java and Python. To improve their match for the job that requires Angular, Git, JavaScript, and React, the candidate may benefit from focusing on enhancing their skills in JavaScript, particularly in frameworks like Angular and React. Additionally, gaining proficiency in Git for version control would be valuable for their professional development. The candidate shows potential and with dedicated effort towards expanding their knowledge in the specified technologies, they can increase their compatibility for roles that align with their career goals. It is recommended for the candidate to pursue relevant training or projects to further develop their skills in Angular, Git, and JavaScript to enhance their competitiveness in the job market.",
+          "firstName": "Alfred",
+          "lastName": "Pennyworth",
+          "email": "pealfred.pennyworth@email.com"
+        }
+      ]
+    },
+    {
+      "jobId": "resume-1745236878-151bf8",
+      "jobFileName": "job_desc_java_developer.pdf",
+      "title": "Unknown Title",
+      "company": "Unknown Company",
+      "requiredSkills": [
+        "Java",
+        "Spring"
+      ],
+      "results": [
+        {
+          "id": "resume-1745236866-98bc7d",
+          "fileName": "john_doe.pdf",
+          "status": "Poor Match",
+          "matchScore": 55.98,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Bootstrap",
+            "Docker",
+            "Git",
+            "Java",
+            "JavaScript",
+            "Junit",
+            "Scrum",
+            "Spring",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has a strong background in Agile methodologies and related tools like Angular, Bootstrap, Docker, Git, JavaScript, Junit, Scrum, and TypeScript, which are valuable skills in a software development role. However, there is room for improvement in the Java and Spring frameworks, which are essential requirements for the job. To enhance their candidacy, the candidate could benefit from focusing on further developing their Java and Spring skills through additional training or hands-on projects. This will help them increase their match percentage and stand out as a more competitive candidate for roles that require proficiency in Java and Spring.",
+          "firstName": "Boot",
+          "lastName": null,
+          "email": "john.doe@email.com"
+        },
+        {
+          "id": "resume-1745236873-6abe40",
+          "fileName": "bruce_wayne_fullstack.pdf",
+          "status": "Poor Match",
+          "matchScore": 48.34,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Kubernetes",
+            "Python",
+            "React",
+            "Scrum",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has a strong foundation in Agile and Scrum methodologies, which will be beneficial in working collaboratively with a team. However, there is a significant gap in the required skills of Java and Spring for the job role. To improve their match percentage, the candidate should focus on enhancing their proficiency in Java and Spring through additional training or hands-on experience. This will greatly increase their competitiveness for roles that require these specific skills. Additionally, the candidate's knowledge of Docker, Git, JavaScript, Kubernetes, Python, React, and TypeScript can be valuable assets in a tech environment and should continue to be cultivated and refined. By addressing the Java and Spring skill gap while leveraging their existing strengths, the candidate can enhance their overall employability and readiness for similar job opportunities in the future.",
+          "firstName": "Bruce",
+          "lastName": "Wayne",
+          "email": "pebwayne@email.com"
+        },
+        {
+          "id": "resume-1745236875-97b3d1",
+          "fileName": "barry_allen_fe.pdf",
+          "status": "Poor Match",
+          "matchScore": 29.12,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Python",
+            "React",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has demonstrated a strong skill set in Agile, Angular, Docker, Git, JavaScript, Python, React, and TypeScript, which are valuable assets. However, there is a significant gap in the required skills for the job, specifically in Java and Spring. To improve the match percentage, the candidate should consider expanding their knowledge and experience in Java and Spring through courses, online resources, or practical projects. By enhancing these skills, the candidate will increase their competitiveness for roles that require proficiency in Java and Spring.",
+          "firstName": "Barry",
+          "lastName": "Allen",
+          "email": "peallthe.stars@google.com"
+        },
+        {
+          "id": "resume-1745236876-7e60b7",
+          "fileName": "harvey_dent_mle.pdf",
+          "status": "Poor Match",
+          "matchScore": 34.99,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "Keras",
+            "Kubernetes",
+            "Python",
+            "Scrum"
+          ],
+          "feedback": "While the candidate possesses valuable skills in Agile, Docker, Git, Keras, Kubernetes, Python, and Scrum, there is a significant gap in the required Java and Spring knowledge for the job. To improve their chances in similar opportunities, the candidate should consider enhancing their proficiency in Java and Spring through additional training or hands-on experience. By bridging this skill gap, the candidate can become a more competitive candidate for roles that require Java and Spring expertise.",
+          "firstName": "Harvey",
+          "lastName": "Dent",
+          "email": "pehdent@email.com"
+        },
+        {
+          "id": "resume-1745236878-def844",
+          "fileName": "alfred_pennyworth_pm.pdf",
+          "status": "Poor Match",
+          "matchScore": 46.6,
+          "skills": [
+            "Agile",
+            "Java",
+            "JavaScript",
+            "Python"
+          ],
+          "feedback": "The candidate has a strong foundation in Java, which is a key requirement for the job. However, there is a gap in skills related to Spring framework, which is also essential for the role. It would be beneficial for the candidate to focus on gaining more experience and knowledge in this area to improve their match for the position. Additionally, while Agile experience is valuable, further development in Java and Spring would greatly enhance their qualifications for the job. It is recommended that the candidate undertake additional training or seek opportunities to work on projects that involve Spring to strengthen their skill set.",
+          "firstName": "Alfred",
+          "lastName": "Pennyworth",
+          "email": "pealfred.pennyworth@email.com"
+        }
+      ]
+    },
+    {
+      "jobId": "resume-1745236889-371512",
+      "jobFileName": "job_desc_product_manager.pdf",
+      "title": "Unknown Title",
+      "company": "Unknown Company",
+      "requiredSkills": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git"
+      ],
+      "results": [
+        {
+          "id": "resume-1745236880-c4a8e9",
+          "fileName": "john_doe.pdf",
+          "status": "Poor Match",
+          "matchScore": 40.33,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Bootstrap",
+            "Docker",
+            "Git",
+            "Java",
+            "JavaScript",
+            "Junit",
+            "Scrum",
+            "Spring",
+            "TypeScript"
+          ],
+          "feedback": "While the candidate possesses valuable skills such as Agile, Git, Java, JavaScript, and TypeScript, there are notable gaps in essential requirements for the job, including React, HTML, CSS, and proficiency in TypeScript. To increase the match percentage for future opportunities, the candidate may benefit from investing time in gaining hands-on experience or completing relevant projects in React, TypeScript, HTML, and CSS. Additionally, enhancing knowledge and practical skills in these areas through online courses or workshops could significantly improve the candidate's competitiveness for roles that require expertise in these technologies. Continued learning and upskilling efforts in these key areas will undoubtedly strengthen the candidate's overall profile and increase their chances of securing roles that align more closely with their skill set and career goals.",
+          "firstName": "Boot",
+          "lastName": null,
+          "email": "john.doe@email.com"
+        },
+        {
+          "id": "resume-1745236882-a87a14",
+          "fileName": "bruce_wayne_fullstack.pdf",
+          "status": "Poor Match",
+          "matchScore": 47.88,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Kubernetes",
+            "Python",
+            "React",
+            "Scrum",
+            "TypeScript"
+          ],
+          "feedback": "The candidate has demonstrated a strong foundation in relevant skills such as Agile, Git, JavaScript, React, and TypeScript, which are essential for the job. To improve their match percentage, they could benefit from further developing their expertise in HTML, CSS, and Docker. It would also be advantageous for the candidate to gain more experience or training in Git, as it is a key requirement for the position. Overall, focusing on enhancing their knowledge and practical skills in these areas will significantly boost their suitability for the role.",
+          "firstName": "Bruce",
+          "lastName": "Wayne",
+          "email": "pebwayne@email.com"
+        },
+        {
+          "id": "resume-1745236884-3fec7c",
+          "fileName": "barry_allen_fe.pdf",
+          "status": "Poor Match",
+          "matchScore": 24.35,
+          "skills": [
+            "Agile",
+            "Angular",
+            "Docker",
+            "Git",
+            "JavaScript",
+            "Python",
+            "React",
+            "TypeScript"
+          ],
+          "feedback": "Feedback for the candidate:\n\nThe candidate has demonstrated strong proficiency in Git, JavaScript, React, and TypeScript, which are essential skills for the job. However, there is a significant gap in knowledge and experience in HTML, CSS, and Docker, which are also required for the role. It is recommended that the candidate invest time in learning and gaining practical experience in these areas to increase their overall match and suitability for the position. Additionally, building on their existing knowledge of Agile practices could further enhance their qualifications for the role.",
+          "firstName": "Barry",
+          "lastName": "Allen",
+          "email": "peallthe.stars@google.com"
+        },
+        {
+          "id": "resume-1745236886-b02cd8",
+          "fileName": "harvey_dent_mle.pdf",
+          "status": "Poor Match",
+          "matchScore": 35.74,
+          "skills": [
+            "Agile",
+            "Docker",
+            "Git",
+            "Keras",
+            "Kubernetes",
+            "Python",
+            "Scrum"
+          ],
+          "feedback": "While the candidate demonstrates strong skills in Agile, Docker, Git, Keras, Kubernetes, Python, and Scrum, there are notable gaps in their proficiency in React, TypeScript, HTML, CSS, and JavaScript, which are essential for the role. To improve their match for this position, it is recommended that the candidate focus on enhancing their knowledge and experience in these key technologies. They may consider taking courses, completing projects, or gaining practical experience to strengthen their skills and increase their compatibility for roles requiring React, TypeScript, HTML, CSS, and JavaScript expertise. With dedication and effort in upskilling in these areas, the candidate will be better positioned for success in similar job opportunities.",
+          "firstName": "Harvey",
+          "lastName": "Dent",
+          "email": "pehdent@email.com"
+        },
+        {
+          "id": "resume-1745236889-89dde6",
+          "fileName": "alfred_pennyworth_pm.pdf",
+          "status": "Poor Match",
+          "matchScore": 47.59,
+          "skills": [
+            "Agile",
+            "Java",
+            "JavaScript",
+            "Python"
+          ],
+          "feedback": "Feedback for the candidate: \n\nWhile your skills in Agile, Java, and Python are valuable, there is a significant gap between the job requirements and your current skill set. To improve your chances of success in securing a role that requires React, TypeScript, HTML, CSS, JavaScript, and Git, it would be beneficial for you to focus on developing proficiency in these specific technologies. Consider taking online courses, attending workshops, and working on personal projects to enhance your skills in these areas. With dedication and effort, you can bridge the gap and become a competitive candidate for roles that align more closely with your target job requirements.",
+          "firstName": "Alfred",
+          "lastName": "Pennyworth",
+          "email": "pealfred.pennyworth@email.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+/* Resizable panel styles */
+.resizable-panel {
+  position: relative;
+  min-width: 20%;
+  max-width: 35%;
+  height: 100%;
+  overflow: hidden;
+  border-right: 1px solid #E5E7EB;
+}
+
+/* Visual resize handle on the right edge of the panel */
+.resize-handle {
+  position: absolute;
+  height: 100%;
+  width: 8px;
+  top: 0;
+  right: 0;
+  background-color: transparent;
+  cursor: ew-resize;
+  transition: background-color 0.2s ease;
+  z-index: 20;
+}
+
+/* Visual indicator for the handle */
+.resize-handle::after {
+  content: "";
+  position: absolute;
+  height: 30px;
+  width: 2px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(75, 85, 99, 0.2); /* Gray-600 with low opacity */
+  border-radius: 1px;
+  transition: background-color 0.2s ease, height 0.2s ease;
+}
+
+/* Hover state for better visibility */
+.resize-handle:hover {
+  background-color: rgba(75, 85, 99, 0.05); /* Gray-600 with very low opacity */
+}
+
+/* Active state for the resize handle */
+.resize-handle:active,
+.resize-handle.active {
+  background-color: rgba(75, 85, 99, 0.1); /* Gray-600 with low opacity */
+}
+
+/* Hover or active state for the visual indicator */
+.resize-handle:hover::after,
+.resize-handle:active::after,
+.resize-handle.active::after {
+  background-color: rgba(75, 85, 99, 0.4); /* Gray-600 with medium opacity */
+  height: 40px;
+}
+
+/* Dark mode support */
+.dark .resizable-panel {
+  border-right-color: #374151;
+}
+
+.dark .resize-handle::after {
+  background-color: rgba(156, 163, 175, 0.2); /* Gray-400 with low opacity */
+}
+
+.dark .resize-handle:hover {
+  background-color: rgba(156, 163, 175, 0.05); /* Gray-400 with very low opacity */
+}
+
+.dark .resize-handle:active,
+.dark .resize-handle.active {
+  background-color: rgba(156, 163, 175, 0.1); /* Gray-400 with low opacity */
+}
+
+.dark .resize-handle:hover::after,
+.dark .resize-handle:active::after,
+.dark .resize-handle.active::after {
+  background-color: rgba(156, 163, 175, 0.4); /* Gray-400 with medium opacity */
+}
+
+/* Prevent text selection during resizing */
+.select-none {
+  user-select: none;
+}
+
+/* Make sure the panel doesn't overlap other content */
+.resizable-panel::-webkit-resizer {
+  background-color: transparent;
+} 

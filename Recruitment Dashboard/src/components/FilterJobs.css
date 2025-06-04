@@ -1,0 +1,25 @@
+/* Make the Filter Jobs component resizable */
+.filter-jobs-container {
+  resize: both;
+  overflow: auto;
+  min-width: 200px;
+  min-height: 150px;
+  max-width: 100%;
+  max-height: 80vh;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+/* Handle for resizing - optional visual indicator */
+.filter-jobs-container::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 15px;
+  height: 15px;
+  cursor: nwse-resize;
+  background: linear-gradient(135deg, transparent 50%, #ccc 50%);
+} 
