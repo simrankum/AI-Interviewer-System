@@ -136,6 +136,3 @@ python3 app.py
 ```
 
 ---
-
-Let me know if you'd like me to include instructions for setting up a `.env` file, PostgreSQL schema, or API endpoint documentation as well.
-```
